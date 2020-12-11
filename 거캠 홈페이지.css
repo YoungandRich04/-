@@ -57,21 +57,24 @@ main{
     color: white;
 }
 .case1{flex-grow: 1;
-background-color: rgb(99, 99, 201);
+background-color: #bd2c32;
+
 
 padding-top: 25px;
 padding-left: 25px;
 padding-right:60px ;
 }
 .case2{flex-grow: 1;
-    background-color: rgb(15, 15, 112);
+    background-color: #8a2c32;
+
 
     padding-top: 25px;
 padding-left: 25px;
 padding-right:60px 
     }
     .case3{flex-grow: 1;
-        background-color: rgb(110, 110, 201);
+        background-color: #5d0e0e;
+
 
         padding-top: 25px;
 padding-left: 25px;
@@ -83,7 +86,8 @@ padding-right:60px
    padding-bottom: 60px;
 }
 footer{
-    background-color: rgb(12,12,102);
+    background-color:#5d0e0e;
+
     color: white;
     width: 1350px;
     
