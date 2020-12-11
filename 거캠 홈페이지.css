@@ -1,0 +1,137 @@
+header{
+
+    width: 1350px;
+    height:100px;
+    position: relative;
+   
+}
+#logo{
+    position: absolute;
+    left: 50px;
+    top: 30px;
+    font-size: 25px;
+}
+nav{
+    position: absolute;
+    left: 50%;
+    top: 30px;
+    margin-left: -200px;
+}
+header button{
+    position: absolute;
+    right: 50px;
+    top:40px;
+    font-size: 15px;
+}
+main{
+    width: 1800px;
+    height: 3000px;
+}
+.inner-contaioner{
+    width: 1400px;
+    margin: 0 auto;
+    position: relative;
+}
+main{
+    height: 3000px;
+
+}
+#qq{
+    text-align: center;
+}
+.h1{
+    font-size: 25px;
+}
+.h2{
+    font-size: 20px;
+    color: gray;
+}
+#case{
+    display: flex;
+    position: relative;
+    top: 50px;
+    width: 1400px;
+    left: 200px;
+
+    text-align: left;
+    color: white;
+}
+.case1{flex-grow: 1;
+background-color: rgb(99, 99, 201);
+
+padding-top: 25px;
+padding-left: 25px;
+padding-right:60px ;
+}
+.case2{flex-grow: 1;
+    background-color: rgb(15, 15, 112);
+
+    padding-top: 25px;
+padding-left: 25px;
+padding-right:60px 
+    }
+    .case3{flex-grow: 1;
+        background-color: rgb(110, 110, 201);
+
+        padding-top: 25px;
+padding-left: 25px;
+padding-right:60px 
+        }
+.line{
+   position: relative;
+   top: 50px;
+   padding-bottom: 60px;
+}
+footer{
+    background-color: rgb(12,12,102);
+    color: white;
+    width: 1350px;
+    
+    padding: 30px;
+    padding-bottom: 200px;
+}
+#box{
+    width: 1000px;
+    
+    display: flex;
+    position: relative;
+    left: 200px;
+    font-size: 14px;
+}
+.box1 {flex-grow:1}
+.box2 {flex-grow:1}
+.box3 {flex-grow:1}
+.box4 {flex-grow:1}
+.box5 {flex-grow:1}
+.box6 {flex-grow:1}
+
+#icon{
+    display:flex;
+    position: absolute;
+    top:320px;
+    left:50px;
+}
+.text{
+position: relative;
+left:-70px;
+}
+.facebook{
+    position: relative;
+    bottom:60px;
+    left:360px;
+flex-grow:1
+}
+.instargram{
+    position: relative;
+    bottom:60px;
+    left:410px;
+    flex-grow:1
+    }
+    .youtube{
+        position: relative;
+        bottom:60px;
+        left:350px;
+        flex-grow:1
+        
+        }
+
